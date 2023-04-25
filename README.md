@@ -25,4 +25,4 @@ The first thing you will most likely do is to rename the folder from `scaffold` 
 
 ## Credit
 
-Please include somewhere in your project that your project is scaffolded from https://github.com/adamovsky/scaffold.git
+Project is scaffolded from https://github.com/adamovsky/scaffold.git
